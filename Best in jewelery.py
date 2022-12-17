@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas
-import csv
 
 list_of_url = ['https://www.trustpilot.com/review/briangavindiamonds.com',
                'https://www.trustpilot.com/review/briangavindiamonds.com?page=2',
